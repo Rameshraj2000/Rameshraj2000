@@ -28,6 +28,6 @@ Python + Selenium + Test Automation
 
 ## Contact
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: linkedin.com/in/ramesh-raj-s-976142204
 
 Email: draj56403@gmail.com
