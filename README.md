@@ -1,7 +1,7 @@
 # Rameshraj2000_22
 # Hi, I'm Ramesh Raj 👋
 
-QA Automation Engineer | Python | Selenium | Pytest | API Testing
+QA Automation Engineer | Python | Selenium | Pytest | API Testing | SQL | CI/CD
 
 ## Skills
 
@@ -16,14 +16,28 @@ QA Automation Engineer | Python | Selenium | Pytest | API Testing
 
 ## Featured Projects
 
-### E-Commerce Automation Framework
-Selenium + Pytest + POM + CI/CD
+### 🛒 E-Commerce Automation Framework
+- Selenium WebDriver
+- Pytest
+- Page Object Model
+- GitHub Actions CI/CD
 
-### EdTech Automation Framework
-Selenium + Pytest + POM + Reporting
+### 🎓 EdTech Automation Framework
+- Selenium WebDriver
+- Pytest
+- Reporting
+- Test Automation
 
-### HR Management Automation Framework
-Python + Selenium + Test Automation
+### 👨‍💼 HR Management Automation Framework
+- Selenium WebDriver
+- Validation Testing
+- Automated Test Execution
+
+## Certifications
+
+- Python Automation Testing
+- SQL for Data Analysis
+- ITIL Foundation
 
 ## Contact
 
