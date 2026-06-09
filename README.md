@@ -12,7 +12,6 @@ QA Automation Engineer | Python | Selenium | Pytest | API Testing
 - SQL
 - Jenkins
 - GitHub Actions
-- Postman
 - Jira
 
 ## Featured Projects
