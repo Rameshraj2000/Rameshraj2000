@@ -115,4 +115,4 @@ MSc Business Analytics
 ## 📫 Connect With Me
 
 - LinkedIn: [www.linkedin.com/in/ramesh-raj-s-976142204]
-- Email: [rameshrajselvaraju@gmail.com]
+- Email: [rameshrajselvaraju0@gmail.com]
